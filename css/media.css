@@ -1,0 +1,74 @@
+@media screen and (max-width:900px){
+    .ourgames .inner-1{
+        text-align: center;
+    }
+    
+
+    .inner-1 h1, .h2-do{
+        font-size: 36px;
+    }
+
+    .fs-12{
+        font-size: 12px;
+    }
+
+   
+    .hero-position {
+    top: 85%;
+    right: 70%;
+    padding: 10px;
+}
+
+.col-md-6 .img-hero {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    object-position: center;
+   margin-top: 20px;
+}
+.container{
+    width: 95%;
+    margin: auto;
+}
+
+.di-none{
+    display: none;
+}
+
+.icon-div{
+       border: 2px solid #D1D5DC;
+    border-radius: 100vh;
+    width: 40px;
+    height: 40px;
+}
+.fa-16{
+    font-size: 16px;
+}
+    #carouselExample .carousel-control-prev {
+        position: absolute;
+         top: 110%;
+    left: 36%;
+       
+    }
+
+    #carouselExample .carousel-control-next{
+         position: absolute;
+         top: 110%;
+    left: 45%;
+    }
+.btn-articles{
+width: 100%;
+     position: absolute;
+    top: 120%;
+  left: 0;
+}
+
+.cent{
+   justify-content: center; 
+   align-items: center;
+   display: flex;
+   flex-direction: column; 
+   text-align: center;
+}
+}
+
