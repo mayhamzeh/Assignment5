@@ -15,7 +15,7 @@
    
     .hero-position {
     top: 85%;
-    right: 70%;
+    right: 65%;
     padding: 10px;
 }
 
@@ -47,7 +47,7 @@
     #carouselExample .carousel-control-prev {
         position: absolute;
          top: 110%;
-    left: 36%;
+    left: 30%;
        
     }
 
